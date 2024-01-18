@@ -14,4 +14,8 @@ Michael Jordan 1991
 Output  
 JordanM91  
 
-Input
+Input  
+Tom Brady 2003  
+
+Output  
+BradyT03
